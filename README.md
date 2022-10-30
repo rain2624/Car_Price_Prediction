@@ -2,7 +2,6 @@
 This Project is related to prediction of car price with the use of Linear Regression Algorithm and Lasso Regression Algorithm.
 The dataset is from kaggle (Vehicle dataset) - https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 This dataset contains information about used cars.
-This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
 The columns in the given dataset are as follows:
 
 1. name - Car Brands.
