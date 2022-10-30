@@ -4,11 +4,12 @@ The dataset is from kaggle (Vehicle dataset) - https://www.kaggle.com/datasets/n
 This dataset contains information about used cars.
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
 The columns in the given dataset are as follows:
-name - Car Brands.
-year - year in which car was bought.
-selling_price - selling price of the car.
-km_driven - number of kilometers the car is driven.
-fuel - fuel type of the car.
-seller_type - tells if car is sold by individual or dealer.
-transmission - Gear transmission of the car (Automatic/Manual).
-Owner - number of previous owners.
+
+1. name - Car Brands.
+2. year - year in which car was bought.
+3. selling_price - selling price of the car.
+4. km_driven - number of kilometers the car is driven.
+5. fuel - fuel type of the car.
+6. seller_type - tells if car is sold by individual or dealer.
+7. transmission - Gear transmission of the car (Automatic/Manual).
+8. Owner - number of previous owners.
